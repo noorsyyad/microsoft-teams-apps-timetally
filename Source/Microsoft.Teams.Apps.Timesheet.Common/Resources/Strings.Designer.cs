@@ -223,7 +223,7 @@ namespace Microsoft.Teams.Apps.Timesheet.Common.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hi! I&apos;m the Time Tally bot!
+        ///   Looks up a localized string similar to Hi! I&apos;m the Mazik Connect bot!
         ///
         ///
         ///I&apos;m here to help you update your timesheet. Here&apos;s what to do:

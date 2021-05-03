@@ -5,10 +5,10 @@
   "id": "6b5bcd9e-a88d-4daa-a651-1908bb5e7cf7",
   "packageName": "com.microsoft.teams.timesheet",
   "developer": {
-    "name": "<<companyName>>",
-    "websiteUrl": "<<websiteUrl>>",
-    "privacyUrl": "<<privacyUrl>>",
-    "termsOfUseUrl": "<<termsOfUseUrl>>"
+    "name": "Mazik Tech Solutions",
+    "websiteUrl": "http://www.maziktech.com/",
+    "privacyUrl": "http://www.maziktech.com/privacy-policy/",
+    "termsOfUseUrl": "http://www.maziktech.com/privacy-policy/"
   },
   "localizationInfo": {
     "defaultLanguageTag": "en",
@@ -24,20 +24,20 @@
     "outline": "outline.png"
   },
   "name": {
-    "short": "Time Tally",
-    "full": "Time Tally"
+    "short": "Mazik Connect",
+    "full": "Mazik Connect"
   },
   "description": {
     "short": "Make it easy for employees to fill timesheet.",
-    "full": "Time Tally app can be used by users to ease timesheet filling. Multiple tasks can be improved so that it is super easy for employees to fill timesheet using mobile device and managers do not have to check with employees on timesheet entry."
+    "full": "Mazik Connect app can be used by users to ease timesheet filling. Multiple tasks can be improved so that it is super easy for employees to fill timesheet using mobile device and managers do not have to check with employees on timesheet entry."
   },
   "accentColor": "#FFFFFF",
   "staticTabs": [
     {
       "entityId": "timesheet",
       "name": "Timesheet",
-      "contentUrl": "https://<<appDomain>>/fill-timesheet",
-      "websiteUrl": "https://<<appDomain>>/fill-timesheet",
+      "contentUrl": "https://mconnect.azurefd.net/fill-timesheet",
+      "websiteUrl": "https://mconnect.azurefd.net/fill-timesheet",
       "scopes": [
         "personal"
       ]
@@ -45,8 +45,8 @@
     {
       "entityId": "manager-dashboard",
       "name": "Manager dashboard",
-      "contentUrl": "https://<<appDomain>>/manager-dashboard",
-      "websiteUrl": "https://<<appDomain>>/manager-dashboard",
+      "contentUrl": "https://mconnect.azurefd.net/manager-dashboard",
+      "websiteUrl": "https://mconnect.azurefd.net/manager-dashboard",
       "scopes": [
         "personal"
       ]
@@ -54,7 +54,7 @@
   ],
   "bots": [
     {
-      "botId": "<<botId>>",
+      "botId": "cc069321-5eca-4107-b3aa-8859475cdddc",
       "scopes": [
         "personal"
       ],
@@ -67,10 +67,10 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<appDomain>>"
+    "mconnect.azurefd.net"
   ],
   "webApplicationInfo": {
-    "id": "<<botId>>",
-    "resource": "api://<<appDomain>>/<<botId>>"
+    "id": "cc069321-5eca-4107-b3aa-8859475cdddc",
+    "resource": "api://mconnect.azurefd.net/cc069321-5eca-4107-b3aa-8859475cdddc"
   }
 }

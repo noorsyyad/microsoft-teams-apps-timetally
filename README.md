@@ -4,17 +4,17 @@ languages:
 - csharp
 products:
 - office-teams
-description: Time Tally app enables users to ease timesheet filling. Multiple tasks can be improved so that it is super easy for employees to fill timesheet using mobile device and managers do not have to check with employees on timesheet entry.
+description: Mazik Connect app enables users to ease timesheet filling. Multiple tasks can be improved so that it is super easy for employees to fill timesheet using mobile device and managers do not have to check with employees on timesheet entry.
 
 urlFragment: microsoft-teams-apps-timetally
 ---
 
 
-# Time Tally
+# Mazik Connect
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-timetally/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-timetally/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-timetally/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
-Time Tally app enables users to ease timesheet filling. Multiple tasks can be included in a project, and multiple projects assigned to employees, so that it is super easy for them to fill timesheet using mobile device and managers do not have to check with employees on timesheet entry. Managers get to view the project utilization based on resource & approve/reject the entries. Reminder notifications will also be sent to ensure timesheet compliance. Historical data and utilizations will also be shown for analytics.
+Mazik Connect app enables users to ease timesheet filling. Multiple tasks can be included in a project, and multiple projects assigned to employees, so that it is super easy for them to fill timesheet using mobile device and managers do not have to check with employees on timesheet entry. Managers get to view the project utilization based on resource & approve/reject the entries. Reminder notifications will also be sent to ensure timesheet compliance. Historical data and utilizations will also be shown for analytics.
 
 ## Key Features
 
@@ -42,7 +42,7 @@ The app can be used in the following ways:-
 ## Get Started
 Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-timetally/wiki/Solution-Overview) to read what the app does and how it works.
 
-When you are ready to try 'Time Tally' out, or use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-timetally/wiki/Deployment-Guide)
+When you are ready to try 'Mazik Connect' out, or use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-timetally/wiki/Deployment-Guide)
 
 ## **Legal notice**
 This app template is provided under the [MIT License](https://github.com/OfficeDev/microsoft-teams-apps-timetally/blob/master/LICENSE) terms. In addition to these terms, by using this app template you agree to the following:
@@ -70,5 +70,5 @@ a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow th
 provided by the bot. You will only need to do this once across all repos using our CLA.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct Time Tally](https://opensource.microsoft.com/codeofconduct/timetally/) or
+For more information see the [Code of Conduct Mazik Connect](https://opensource.microsoft.com/codeofconduct/timetally/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
